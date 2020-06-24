@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.0\ArrayStack.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.0\ArrayStack.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.0\ArrayStack.AssemblyInfo.cs
+C:\Users\user\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.0\ArrayStack.exe
+C:\Users\user\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.0\ArrayStack.deps.json
+C:\Users\user\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.0\ArrayStack.runtimeconfig.json
+C:\Users\user\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.0\ArrayStack.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.0\ArrayStack.dll
+C:\Users\user\source\repos\ArrayStack\ArrayStack\bin\Debug\netcoreapp3.0\ArrayStack.pdb
+C:\Users\user\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.0\ArrayStack.dll
+C:\Users\user\source\repos\ArrayStack\ArrayStack\obj\Debug\netcoreapp3.0\ArrayStack.pdb
